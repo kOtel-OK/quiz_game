@@ -1,0 +1,17 @@
+.container .row:first-child {
+  height: 100vh;
+}
+
+.start_window {
+  width: 100%;
+}
+
+.score {
+  width: 100px;
+  height: 40px;
+  background-color: #ff0000;
+}
+
+.question_window {
+  display: none;
+}

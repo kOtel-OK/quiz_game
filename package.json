@@ -1,0 +1,19 @@
+{
+  "name": "quizz_game",
+  "version": "1.0.0",
+  "description": "js game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kOtel-OK/quiz_game.git"
+  },
+  "author": "kOtel_OK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kOtel-OK/quiz_game/issues"
+  },
+  "homepage": "https://github.com/kOtel-OK/quiz_game#readme"
+}
